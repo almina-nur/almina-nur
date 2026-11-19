@@ -24,7 +24,7 @@
 <a href="https://github.com/almina-nur">
   <img src="https://img.shields.io/badge/GitHub-almina--nur-0D1117?style=for-the-badge&logo=github&logoColor=F8DCE8" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/almina-nur-kotan/">
+<a href="https://www.linkedin.com/in/alminanurkotan/">
   <img src="https://img.shields.io/badge/LinkedIn-Almina%20Nur%20Kotan-0D1117?style=for-the-badge&logo=linkedin&logoColor=F8DCE8" alt="LinkedIn"/>
 </a>
 <a href="mailto:alminanurkotan@gmail.com">
