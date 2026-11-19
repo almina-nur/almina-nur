@@ -148,6 +148,6 @@ Open to research collaborations, engineering internships, and technical projects
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D979A5&height=3" width="100%" alt="Bottom Accent Line"/>
 
 <b>Engineered with curiosity. Refined with precision.</b><br/>
-<sub><i>Almina Nur Kotan · Manisa, Türkiye</i></sub>
+<sub><i>Almina Nur Kotan · Muğla, Türkiye</i></sub>
 
 </div>
