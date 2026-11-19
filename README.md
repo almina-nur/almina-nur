@@ -14,21 +14,21 @@
 
 <p>
   <b>Artificial Intelligence & Machine Learning Student</b><br/>
-  <i>Computer Vision · Edge AI · Adversarial ML & AI Security</i>
+  <i>Computer Vision · Edge AI · AI Security</i>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=D979A5&center=true&vCenter=true&width=620&lines=Building+resilient+and+lightweight+AI+systems.;Deploying+real-time+Computer+Vision+at+the+Edge.;Exploring+AI+Security+and+Cyber-Physical+Systems.;Turning+research+curiosity+into+production+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=D979A5&center=true&vCenter=true&width=620&lines=Building+resilient+and+lightweight+AI+systems.;Deploying+real-time+Computer+Vision+at+the+Edge.;Exploring+AI+Security+and+Adversarial+Robustness.;Turning+research+curiosity+into+production+code." alt="Typing Animation" />
 
 <br/>
 
 <a href="https://github.com/almina-nur">
-  <img src="https://img.shields.io/badge/GitHub-almina--nur-0D1117?style=for-the-badge&logo=github&logoColor=F8DCE8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-almina--nur-0D1117?style=for-the-badge&logo=github&logoColor=F8DCE8" alt="GitHub Profile"/>
 </a>
-<a href="https://www.linkedin.com/in/alminanurkotan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Almina%20Nur%20Kotan-0D1117?style=for-the-badge&logo=linkedin&logoColor=F8DCE8" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/almina-nur-kotan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Almina%20Nur%20Kotan-0D1117?style=for-the-badge&logo=linkedin&logoColor=F8DCE8" alt="LinkedIn Profile"/>
 </a>
 <a href="mailto:alminanurkotan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D979A5?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D979A5?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email Contact"/>
 </a>
 
 </div>
@@ -39,76 +39,59 @@
 
 ## About Me
 
-I am an **Artificial Intelligence & Machine Learning** student at **Manisa Celal Bayar University**, focusing on the intersection of **intelligent systems, edge computing, and cybersecurity**. Rather than stopping at benchmark accuracy, I focus on end-to-end engineering — designing architectures that remain **fast, lightweight, and secure** under real-world operational constraints.
-
-`Computer Vision` · `Edge AI` · `AI Security` · `Adversarial ML` · `MLOps`
-
-<br/>
+I am an **Artificial Intelligence & Machine Learning** student at **Manisa Celal Bayar University**, focusing on the intersection of **intelligent systems, edge computing, and cybersecurity**. Rather than stopping at benchmark accuracy, I focus on end-to-end engineering — designing models that stay **fast, lightweight, and secure** under real-world constraints.
 
 ```python
 class AlminaNurKotan:
     role = "AI & ML Student"
     institution = "Manisa Celal Bayar University"
-    focus_areas = ["Computer Vision", "Edge AI", "AI Security & Adversarial ML", "MLOps"]
+    focus_areas = ["Computer Vision", "Edge AI", "AI Security", "MLOps"]
     current_work = [
-        "Real-time edge inference & quantization (ONNX / TensorRT)",
-        "Adversarial robustness & LLM security evaluation"
+        "Real-time aerial object detection & INT8 quantization (EdgeVision)",
+        "Adversarial robustness & local LLM security evaluation"
     ]
     motto = "Precision in theory, resilience in deployment."
 ```
 
-<br/>
 
 ---
 
-## Core Research & Engineering Domains
+## Core Focus Areas
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### Artificial Intelligence & ML
-
 - Supervised & Deep Learning Architectures
-- Neural Network Design & Fine-Tuning
-- Natural Language Processing & LLMs
-- Feature Engineering & Model Evaluation
-- Experiment Tracking & Reproducible Pipelines
+- Feature Engineering & Ensemble Modeling
+- Reproducible Pipelines & Experiment Tracking
 
 </td>
 <td width="50%" valign="top">
 
 ### Computer Vision
-
 - Real-Time Object Detection & Tracking
-- YOLO Architectures & Custom Datasets
+- YOLO Architectures & Aerial Datasets
 - Image Processing & Augmentation (OpenCV)
-- Multi-Scale Inference Pipelines
-- Vision Systems for Autonomous Platforms
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Edge AI & Systems Engineering
-
-- Post-Training Quantization (FP32 / FP16 / INT8)
-- Cross-Platform Runtime Optimization (ONNX, TensorRT)
-- Latency, Throughput & Memory Benchmarking
-- Embedded & Resource-Constrained Deployment
-- Telemetry & Cyber-Physical Integration (MAVLink)
+### Edge AI & Optimization
+- Post-Training Quantization (FP32 / INT8)
+- ONNX Runtime & Inference Benchmarking
+- Resource-Constrained & Embedded Deployment
 
 </td>
 <td width="50%" valign="top">
 
 ### AI Security & Robustness
-
-- Adversarial Machine Learning & Evasion Attacks
-- Prompt Injection & LLM Guardrail Evaluation
-- Model Robustness & Trustworthy AI
-- Secure Communication in Cyber-Physical Systems
-- Privacy-Preserving & Air-Gapped Inference
+- Adversarial Evasion & Robustness Testing
+- Prompt Injection & Local LLM Guardrails
+- Air-Gapped & Privacy-Preserving Inference
 
 </td>
 </tr>
@@ -122,13 +105,13 @@ class AlminaNurKotan:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,postgres,linux,git,github,vscode&theme=dark" alt="Core Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,docker,postgres,linux,git,github,vscode&theme=dark" alt="Tech Stack Icons"/>
 
 <br/><br/>
 
 <sub>
-<b>ML & Vision:</b> <code>PyTorch</code> · <code>YOLO</code> · <code>OpenCV</code> · <code>Scikit-learn</code> · <code>CatBoost</code> · <code>NumPy</code> · <code>Pandas</code><br/>
-<b>Edge & Systems:</b> <code>ONNX Runtime</code> · <code>TensorRT</code> · <code>MAVLink</code> · <code>MLflow</code> · <code>C/C++</code>
+<b>ML & Vision:</b> <code>PyTorch</code> · <code>Ultralytics YOLO</code> · <code>OpenCV</code> · <code>ONNX Runtime</code> · <code>Scikit-learn</code> · <code>LightGBM</code> · <code>CatBoost</code> · <code>NumPy</code> · <code>Pandas</code><br/>
+<b>Backend, Data & Infra:</b> <code>FastAPI</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>MLflow</code> · <code>Linux</code> · <code>Git</code>
 </sub>
 
 </div>
@@ -146,6 +129,8 @@ Open to research collaborations, engineering internships, and technical projects
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D979A5&height=3" width="100%" alt="Bottom Accent Line"/>
+
+<br/><br/>
 
 <b>Engineered with curiosity. Refined with precision.</b><br/>
 <sub><i>Almina Nur Kotan · Muğla, Türkiye</i></sub>
